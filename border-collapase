@@ -1,3 +1,8 @@
 border-colloapase는 표테두리와 셀의 테두리 간격을 어떻게 처리할지 정한다.
 
-문법:
+문법: border-collapase : seperate | collapase | initial | inherit
+
+seperate : 표의 테두리와 셀의 테두리 사이에 간격을 둔다.
+collapase : 표의 테두리와 셀의 테두리 사이의 간격을 없앤다. 겹치는 부분은 한 줄로 나타냅니다.
+initial : 기본값으로 설정합니다.
+inherit : 부모 요소의 속성값을 상속받습니다.
