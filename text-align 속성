@@ -1,0 +1,12 @@
+text-align 속성은 텍스트의 정렬 방향을 의미
+
+left : 왼쪽 정렬
+right : 오른쪽 정렬
+center : 중앙 정렬
+justify : 양쪽 정렬 (자동 줄바꿈시 오른쪽 경계선 부분 정리)
+
+
+
+사용법
+
+#box1 { text-align : right; }
