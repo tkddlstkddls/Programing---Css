@@ -1,0 +1,14 @@
+border 속성
+
+css 속성중 테두리를 둥글게 하거나 색상, 모양을 설정하는 border 속성에 대하여 알아봅니다.
+
+border : 
+축약 속성으로, border-width, border-style, border-color 순서로 작성한다. 몇몇 값을 생략해도 상관없다.
+
+문법 : 
+border : 5px solid red;
+
+border-witdh : border의 width 값을 지정
+border-style : border의 style 값을 지정
+border-color : border의 color 값을 지정
+inherit : 부모 요소로부터 값을 상속 받는다.
